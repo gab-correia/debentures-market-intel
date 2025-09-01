@@ -19,8 +19,13 @@ payload = {
     "modalidade": "TODAS",
     "direcaoOrdenacao": "DESC",
     "colunaOrdenacao": "data",
-    "pagina": 1,       # primeira página
-    "tamanhoPagina": 5
+    "pagina": 1,
+    "tamanhoPagina": 10000,
+    # "status": [
+    #     "Aguardando Bookbuilding",
+    #     "Oferta Encerrada",
+    #     "Registro Concedido"
+    # ]
 }
 
 resp = requests.post(URL, json=payload, headers=HEADERS, timeout=60)
@@ -28,7 +33,14 @@ resp.raise_for_status()
 data = resp.json()
 
 registros = data.get("registros", [])
-
+registros = [
+    r for r in registros
+    if str(r.get("statusDaOferta","")).lower() in {
+        "aguardando bookbuilding".lower(),
+        "oferta encerrada".lower(),
+        "registro concedido".lower()
+    }
+]
 df = pd.DataFrame(registros)
 
 # garante que a pasta data/raw exista
