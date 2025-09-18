@@ -20,7 +20,7 @@ payload = {
     "direcaoOrdenacao": "DESC",
     "colunaOrdenacao": "data",
     "pagina": 1,
-    "tamanhoPagina": 10000,
+    "tamanhoPagina": 10000, #O dobro do que existe
     # "status": [
     #     "Aguardando Bookbuilding",
     #     "Oferta Encerrada",
@@ -47,7 +47,7 @@ df = pd.DataFrame(registros)
 output_dir = os.path.join(os.path.dirname(__file__), "../../data/raw")
 os.makedirs(output_dir, exist_ok=True)
 
-output_path = os.path.join(output_dir, "detalhado_primeira_pagina.csv")
+output_path = os.path.join(output_dir, "dados_cvm_filtrando_status.csv")
 df.to_csv(output_path, index=False, encoding="utf-8-sig")
 
 print("Arquivo salvo em:", os.path.abspath(output_path))

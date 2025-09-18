@@ -1,0 +1,81 @@
+﻿Bovespa Fix - Busca de Debêntures
+
+Código;Emissor;Nº Emissão;Nº Série;Agente Fiduciário;Tipo (1);Volume em Milhões(R$);Remuneração;Lei 12.431 - Artigo 1º;Lei 12.431 - Artigo 2º
+TIET-DEB43;AES TIETE E;4;3;Otrust;S;301,758;8,433%+PRE;Não;Não;
+ALGT-DEB62;ALGAR TELEC;6;2;;S;282,00;;Não;Não;
+ANHB-DEB81;Autoban;8;1;Pentagono;S;716,514;5,471% + IPCA;Não;Não;
+BESA-DEB11;Baesa;1;1;Pentagono;-;90,00;108% + CDI;Não;Não;
+BESA-DEB12;Baesa;1;2;Pentagono;-;90,00;108% + CDI;Não;Não;
+BNDP-DEB61;Bndespar;6;1;Pentagono;S;409,00;11,169%;Não;Não;
+BNDP-DEB62;Bndespar;6;2;Pentagono;S;302,00;0,550% a.a. (TJ3);Não;Não;
+BRML-DEB12;BR Malls Par;1;2;Pavarini;-;320,00;IPCA + 7,9% a.a.;Não;Não;
+BRML-DEB21;BR Malls Par;2;1;Pentagono;-;165,75;0,940%;Não;Não;
+BISA-DEB22;Brookfield;2;2;Pentagono;-;366,06;9,50% a.a.;Não;Não;
+BVLS-DEB11;BV Leasing;1;1;Pavarini;-;1.350,00;DI + 0,50% a.a.;Não;Não;
+CMGD-DEB32;Cemig Dist;3;2;GDC Partners DTVM;S;1.095,508;4,700%;Não;Não;
+CGAS-DEB33;Comgas;3;3;Pentagono;S;142,465;5,570%;Não;Não;
+CGAS-DEB41;Comgas;4;1;Pavarini;S;269,62;7,143%+IPCA;Não;Não;
+CGAS-DEB42;Comgas;4;2;Pavarini;S;242,374;7,482%+IPCA;Não;Não;
+CGAS-DEB43;Comgas;4;3;Pavarini;S;79,90;7,357%+IPCA;Não;Sim;
+CGAS-DEB51;Comgas;5;1;;S;675,00;5,868% + IPCA;Não;Não;
+CSMG-DEB2A;COPASA;12;1;;S;187,385;5,064%+IPCA;Não;Não;
+CSMG-DEB2B;COPASA;12;2;;S;80,615;5,274%+IPCA;Não;Não;
+CSRN-DEB71;COSERN;7;1;Pavarini;S;271,438;4,641% do IPCA;Não;Não;
+CSRN-DEB72;COSERN;7;2;Pavarini;S;98,562;4,910% do IPCA;Não;Não;
+CTBC-DEB22;CTBC Telecom;2;2;Pentagono;-;232,60;6,000%;Não;Não;
+CTBC-DEB61;CTBC Telecom;6;1;Pentagono;-;150,00;1,400% + CDI;Não;Não;
+CTBC-DEB62;CTBC Telecom;6;2;Pentagono;-;282,00;6,8734% + IPCA;Não;Não;
+DTEX-DCA11;Duratex;1;1;Pavarini;-;100,00;6,000%;Não;Não;
+EBEN-DEB41;EBE;4;1;SLW;-;390,00;DI + 1,50%;Não;Não;
+ECOV-DEB21;Ecovias;2;1;Pentagono;S;200,00;3,800%;Não;Não;
+ECOV-DEB22;Ecovias;2;2;Pentagono;S;681,00;4,280%;Não;Não;
+ENBR-DEB42;Energias BR;4;2;Pentagono;S;179,887;8,8201% + IPCA;Não;Não;
+ENBR-DEB43;Energias BR;4;3;Pentagono;S;48,066;8,7608% + IPCA;Não;Não;
+ENGI-DEB71;Energisa;7;1;;S;166,667;8,75%+IPCA;Não;Não;
+ENGI-DEB72;Energisa;7;2;;S;166,667;8,75%+IPCA;Não;Não;
+ENGI-DEB73;Energisa;7;3;;S;166,667;8,75%+IPCA;Não;Não;
+ENGI-DEB74;Energisa;7;4;;S;166,667;10,25%+IPCA;Não;Não;
+ENGI-DEB75;Energisa;7;5;;S;166,667;10,25%+IPCA;Não;Não;
+ENGI-DEB76;Energisa;7;6;;S;166,667;10,25%+IPCA;Não;Não;
+ENGI-DEB81;Energisa;8;1;Pentagono;S;197,598;5,600% + IPCA;Não;Não;
+ENGI-DEB82;Energisa;8;2;Pentagono;S;177,348;5,660% + IPCA;Não;Não;
+ENEV-DCA11;ENEVA;1;1;Planner;-;1.369,352;4,00%;Não;Não;
+EGIE-DEB71;ENGIE BRASIL;7;1;Pavarini;S;515,353;5,658% + IPCA;Não;Não;
+EGIE-DEB72;ENGIE BRASIL;7;2;Pavarini;S;231,257;5,903% + IPCA;Sim;Sim;
+EVEN-DEB52;Even;5;2;Pavarini;-;0,01;2,20% a.a.;Não;Não;
+GFSA-DEB81;Gafisa;8;1;SLW;-;288,427;1,950% a.a.;Não;Não;
+AGRU-DEB21;GruAirport;2;1;Pentagono;S;300,00;6,400% + IPCA;Sim;Sim;
+HYPE-DEB33;Hypermarcas;3;3;Pavarini;-;651,042;8,430% a.a.;Não;Não;
+INEP-DCA61;INEPAR;6;1;SLW;C;167,234;% Lucro Liquido emissora + 50% do DI.;Não;Não;
+INEP-DCA71;INEPAR;7;1;SLW;C;66,434;% Lucro Liquido emissora + 50% do DI.;Não;Não;
+MYPK-DEB7A;Iochp-Maxion;7;1;Pentagono;-;397,732;99%;Não;Não;
+LIGH-DEBE1;LIGHT;15;1;;S;540,00;6,828% + IPCA;Não;Sim;
+MRSA-DEB71;MRS Logist;7;1;Pentagono;S;336,34;5,983% + IPCA;Não;Não;
+MRSA-DEB72;MRS Logist;7;2;Pentagono;S;214,386;6,428% + IPCA;Não;Não;
+OGSA-DCA31;Nova Oleo;3;1;Otrust;-;299,20;10,000% + Pré;Não;Não;
+OGSA-DCA32;Nova Oleo;3;2;Otrust;-;215,424;10,000% + Pré;Não;Não;
+PETR-DEB61;Petrobras;6;1;Pentagono;S;898,397;4,046% + IPCA;Não;Sim;
+PETR-DEB62;Petrobras;6;2;Pentagono;S;1.694,089;4,219% + IPCA;Não;Não;
+PETR-DEB63;Petrobras;6;3;Pentagono;S;1.007,514;106,250% + CDI;Não;Não;
+RDVT-DEB11;Rod Tiete;1;1;Pentagono;S;1.065,00;8,000%;Não;Não;
+SAIP-DEB11;Salus Infra;1;1;Pentagono;S;320,899;6,7879%+IPCA;Não;Não;
+SNST-DEB21;Sanesalto;2;1;Planner;S;36,00;6,25% a.a.;Não;Não;
+STEN-DEB31;Sto Antonio;3;1;Pentagono;S;200,00;7,054%;Não;Não;
+STEN-DEB32;Sto Antonio;3;2;Pentagono;S;500,00;7,494%;Não;Não;
+TAEE-DEB41;Taesa;4;1;;S;255,00;IPCA a.a. 0,2%;Não;Não;
+TAEE-DEB51;Taesa;5;1;Pavarini;S;525,772;Anual, sendo o próximo em 15/07/2019.;Não;Não;
+VIVT-DEB42;Telef Brasil;4;2;Pentagono;-;640,00;112,00% do DI;Não;Não;
+TRPL-DEB51;Tran Paulist;5;1;Pentagono;S;300,00;5,037% + IPCA;Não;Não;
+TRPL-DEB71;Tran Paulist;7;1;;S;621,00;4,700%+IPCA;Não;Não;
+VALE-DEB81;Vale;8;1;Pentagono;S;600,00;IPCA + 6,460%;Não;Não;
+VALE-DEB82;Vale;8;2;Pentagono;S;150,00;6,570%;Não;Não;
+VALE-DEB83;Vale;8;3;Pentagono;S;100,00;6,710%;Sim;Sim;
+VALE-DEB84;Vale;8;4;Pentagono;S;150,00;6,780%;Sim;Sim;
+VALE-DEB91;Vale;9;1;Pentagono;S;800,00;6,6232% + IPCA;Não;Não;
+VALE-DEB92;Vale;9;2;Pentagono;S;550,00;6,6252% + IPCA;Não;Não;
+VIVR-DCA41;Viver;4;1;Pentagono;-;125,00;2,000%;Não;Não;
+
+C - Conversível
+S - Simples
+P - Permutável
+Nota: A lei 12.341 dispões sobre a incid~encia do imposto sobre a renda nas operações que especifica

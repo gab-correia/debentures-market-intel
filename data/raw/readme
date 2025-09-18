@@ -1,0 +1,60 @@
+COD. MEDICAO
+Um código interno ou da instituição que identifica a operação ou a medição/registro da emissão. Pode ser usado para rastrear ofertas em sistemas como CVM ou CETIP (B3).
+
+EMISSOR
+A empresa que está emitindo a debênture. É quem capta recursos junto aos investidores.
+
+AG. FIDUCIARIO (Agente Fiduciário)
+Instituição (geralmente um banco) que representa os interesses dos debenturistas. Ele monitora se o emissor cumpre com as obrigações do título.
+
+EMISSÃO
+Número da emissão de debêntures da empresa. Exemplo: “1ª emissão”, “2ª emissão”. Indica quantas vezes a empresa já emitiu debêntures.
+
+SÉRIE
+Dentro de uma mesma emissão, podem existir séries diferentes (com prazos, indexadores ou taxas distintos).
+
+QTDE EMITIDA
+Quantidade de debêntures lançadas no mercado.
+
+VOL. EMISSÃO (Volume de Emissão)
+Valor financeiro total da emissão (em reais), ou seja, quanto a empresa está captando junto ao mercado.
+
+QTDE INTEC (Quantidade Integralizada / Integrada)
+Pode se referir à quantidade de títulos efetivamente subscritos e integralizados pelos investidores.
+
+INDICADOR
+Índice de referência usado para corrigir o valor do título, como:
+
+DI (CDI)
+
+IPCA (inflação)
+
+Selic
+
+Ou "sem índice" (prefixado).
+
+TAXA
+Taxa de remuneração adicional ao indicador. Exemplo: IPCA + 6% a.a. ou 120% do CDI.
+
+SITUAÇÃO
+Status da oferta ou do título, por exemplo:
+
+Confirmado sem restrição
+
+Em análise
+
+Encerrado
+
+Suspenso
+
+DATA EMISSÃO
+Data em que as debêntures foram efetivamente emitidas.
+
+DATA VENC. (Data de Vencimento)
+Quando a obrigação será paga integralmente (prazo final).
+
+ISIN
+Código único internacional de identificação do título, atribuído conforme o padrão ISO 6166. Exemplo: BRXXXXDBS0X1.
+
+OFERTA CVM
+Número ou referência do processo de registro da oferta junto à CVM (Comissão de Valores Mobiliários).
