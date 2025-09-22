@@ -1,0 +1,426 @@
+Utilizamos cookies para melhorar sua experiência aqui no site ou em outros aplicativos da ANBIMA. Ao continuar navegando, você concorda com as nossas Regras de Privacidade.
+Prosseguir
+Dados de mercado
+Publicações
+Datasets
+Ferramentas
+HOME
+BUSCA
+DEBÊNTURES
+Debêntures
+Aqui você encontra informações atualizadas sobre debêntures emitidas via oferta pública.
+DEBÊNTURES
+5.168
+Filtrar por:
+Remuneração
+Prazo
+Limpar filtros
+Visualizar por:
+Preços
+Características
+NENHUMA DEBÊNTURE
+NENHUMA DEBÊNTURE
+NENHUMA DEBÊNTURE
+NENHUMA DEBÊNTURE
+Comparar
+Ordenar por:
+Ativo (A-Z)
+Os preços indicativos são uma referência de valor para os ativos. Podem ser observados negócios com valores diferentes em função da própria dinâmica de oferta e demanda, custos de transação e volume das operações.
+AAJR11
+Calcular ativo
+Ver detalhes
+Emissor
+PANATI HOLDING S.A.
+Remuneração
+DI + 3,5000%
+Data de vencimento
+27/06/2029
+Duration
+-
+Setor
+-
+Data da emissão
+23/06/2025
+PU PAR
+-
+PU Indicativo
+-
+AALM11
+Calcular ativo
+Ver detalhes
+Emissor
+AURA ALMAS MINERACAO S.A.
+Remuneração
+DI + 4,3500%
+Data de vencimento
+08/11/2024
+Duration
+-
+Setor
+Mineração
+Data da emissão
+13/07/2021
+PU PAR
+R$ 524,022692
+PU Indicativo
+-
+AALM12
+Calcular ativo
+Ver detalhes
+Emissor
+AURA ALMAS MINERACAO S.A.
+Remuneração
+DI + 1,6000%
+Data de vencimento
+02/10/2030
+Duration
+663 dias
+Setor
+Mineração
+Data da emissão
+02/10/2024
+PU PAR
+R$ 1.074,898809
+PU Indicativo
+R$ 1.091,931869
+AALR11
+Calcular ativo
+Ver detalhes
+Emissor
+CENTRO DE IMAGEM DIAGNOSTICOS S.A.
+Remuneração
+116,0000% DI
+Data de vencimento
+01/09/2020
+Duration
+-
+Setor
+Assistência Médica
+Data da emissão
+01/09/2017
+PU PAR
+R$ 0,000000
+PU Indicativo
+-
+AALR12
+Calcular ativo
+Ver detalhes
+Emissor
+ALLIANCA SAUDE E PARTICIPACOES S.A.
+Remuneração
+DI + 3,5000%
+Data de vencimento
+15/07/2025
+Duration
+-
+Setor
+Assistência Médica
+Data da emissão
+15/07/2019
+PU PAR
+R$ 6.370,067827
+PU Indicativo
+-
+AALR13
+Calcular ativo
+Ver detalhes
+Emissor
+ALLIANCA SAUDE E PARTICIPACOES S.A.
+Remuneração
+DI + 2,7500%
+Data de vencimento
+04/10/2027
+Duration
+249 dias
+Setor
+Assistência Médica
+Data da emissão
+04/10/2022
+PU PAR
+R$ 876,899255
+PU Indicativo
+R$ 834,451267
+AALR21
+Calcular ativo
+Ver detalhes
+Emissor
+CENTRO DE IMAGEM DIAGNOSTICOS S.A.
+Remuneração
+118,0000% DI
+Data de vencimento
+01/09/2022
+Duration
+-
+Setor
+Assistência Médica
+Data da emissão
+01/09/2017
+PU PAR
+R$ 10.000,000000
+PU Indicativo
+-
+AALR22
+Calcular ativo
+Ver detalhes
+Emissor
+ALLIANCA SAUDE E PARTICIPACOES S.A.
+Remuneração
+DI + 3,0000%
+Data de vencimento
+08/12/2020
+Duration
+-
+Setor
+Assistência Médica
+Data da emissão
+15/07/2019
+PU PAR
+-
+PU Indicativo
+-
+AALR32
+Calcular ativo
+Ver detalhes
+Emissor
+ALLIANCA SAUDE E PARTICIPACOES S.A.
+Remuneração
+DI + 3,0000%
+Data de vencimento
+15/07/2025
+Duration
+-
+Setor
+Assistência Médica
+Data da emissão
+15/07/2019
+PU PAR
+-
+PU Indicativo
+-
+AARJA1
+Calcular ativo
+Ver detalhes
+Emissor
+AQUA-RIO AQUARIO MARINHO DO RIO DE JANEIRO S/A
+Remuneração
+DI + 3,5000%
+Data de vencimento
+23/12/2025
+Duration
+-
+Setor
+Outros Serviços
+Data da emissão
+23/12/2019
+PU PAR
+R$ 684,259402
+PU Indicativo
+-
+AARJA2
+Calcular ativo
+Ver detalhes
+Emissor
+AQUA-RIO AQUARIO MARINHO DO RIO DE JANEIRO S/A
+Remuneração
+DI + 3,3500%
+Data de vencimento
+23/02/2029
+Duration
+-
+Setor
+Outros Serviços
+Data da emissão
+23/02/2024
+PU PAR
+R$ 788,459015
+PU Indicativo
+-
+AASN11
+Calcular ativo
+Ver detalhes
+Emissor
+ALLONDA AMBIENTAL SANEAMENTO S.A.
+Remuneração
+Pré-Fixado 20,0000%
+Data de vencimento
+10/11/2022
+Duration
+-
+Setor
+Saneamento
+Data da emissão
+14/05/2022
+PU PAR
+R$ 0,000000
+PU Indicativo
+-
+ABFR11
+Calcular ativo
+Ver detalhes
+Emissor
+ALCOESTE BIOENERGIA FERNANDOPOLIS S A
+Remuneração
+DI + 3,6000%
+Data de vencimento
+03/01/2024
+Duration
+-
+Setor
+Bioenergia
+Data da emissão
+21/12/2020
+PU PAR
+R$ 0,000000
+PU Indicativo
+-
+ABFR12
+LEI 12.431
+Calcular ativo
+Ver detalhes
+Emissor
+ALCOESTE BIOENERGIA FERNANDOPOLIS S A
+Remuneração
+IPCA + 8,1869%
+Data de vencimento
+15/12/2027
+Duration
+-
+Setor
+Bioenergia
+Data da emissão
+15/12/2021
+PU PAR
+R$ 920,092578
+PU Indicativo
+-
+ABMX12
+Calcular ativo
+Ver detalhes
+Emissor
+ABIMEX IMPORTACAO E EXPORTACAO S/A
+Remuneração
+DI + 0,9000%
+Data de vencimento
+15/10/2024
+Duration
+-
+Setor
+Comércio Atacadista e Varejista
+Data da emissão
+15/10/2018
+PU PAR
+R$ 0,054135
+PU Indicativo
+-
+ABPA11
+Calcular ativo
+Ver detalhes
+Emissor
+AMBIENTAL PARTICIPACOES S.A.
+Remuneração
+DI + 2,5000%
+Data de vencimento
+15/07/2025
+Duration
+-
+Setor
+Empreendimentos e Participações
+Data da emissão
+15/12/2021
+PU PAR
+R$ 482,086768
+PU Indicativo
+-
+ABPA21
+Calcular ativo
+Ver detalhes
+Emissor
+AMBIENTAL PARTICIPACOES S.A.
+Remuneração
+DI + 2,5000%
+Data de vencimento
+15/07/2025
+Duration
+-
+Setor
+Empreendimentos e Participações
+Data da emissão
+15/12/2021
+PU PAR
+R$ 482,086769
+PU Indicativo
+-
+ABPR11
+Calcular ativo
+Ver detalhes
+Emissor
+ABAPORU PARTICIPACOES S/A
+Remuneração
+DI + 1,1000%
+Data de vencimento
+20/05/2021
+Duration
+-
+Setor
+Empreendimentos e Participações
+Data da emissão
+20/07/2017
+PU PAR
+R$ 0,000000
+PU Indicativo
+-
+ABPR21
+Calcular ativo
+Ver detalhes
+Emissor
+ABAPORU PARTICIPACOES S/A
+Remuneração
+DI + 1,1000%
+Data de vencimento
+20/05/2021
+Duration
+-
+Setor
+Empreendimentos e Participações
+Data da emissão
+20/07/2017
+PU PAR
+R$ 0,000000
+PU Indicativo
+-
+ABRK11
+Calcular ativo
+Ver detalhes
+Emissor
+BRK AMBIENTAL - MAUA S.A.
+Remuneração
+DI + 2,4000%
+Data de vencimento
+15/12/2038
+Duration
+-
+Setor
+-
+Data da emissão
+15/01/2025
+PU PAR
+R$ 1.037,661390
+PU Indicativo
+-
+Itens por página:
+20
+Exibindo 1 - 20 de 5.168 resultados
+de
+259
+páginas
+ANBIMA
+Portal ANBIMA
+ANBIMA Feed
+ANBIMA Edu
+Dúvidas e feedbacks
+MAIS INFORMAÇÕES
+Regras de privacidade
+Termos de uso
+Transparência e governança
+Versão: 7.15.40
+As fontes das informações apresentadas são ANBIMA, B3, CVM, demais participantes das ofertas de debêntures e responsáveis pelos fundos de investimento. Este site é protegido pelo reCAPTCHA, consulte a Política de privacidade e os Termos de serviço do Google.
