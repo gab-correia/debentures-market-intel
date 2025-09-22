@@ -92,7 +92,7 @@ class ANBIMADebenturesScraper:
             try:
                 # Aguarda tabela ou lista de debêntures
                 debentures_container = wait.until(
-                    EC.presence_of_element_located((By.CSS_SELECTOR, "list-item__container, table, .list-container, .debentures-list, [data-testid*='debenture']"))
+                    EC.presence_of_element_located((By.CSS_SELECTOR, "list-item__container, table, .list-container, .debentures-list, [data-testid*='debenture'], list-item__container, col-xs-12, anbima-ui-dropdown__container, anbima-ui-pagination__dropdown"))
                 )
                 print("Container de debêntures encontrado!")
             except:

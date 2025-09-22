@@ -55,7 +55,10 @@ def scraping_anbima_debentures():
         # Tenta encontrar elementos da página
         # NOTA: Estes seletores devem ser ajustados baseado na estrutura real da página
         possible_selectors = [
-            "list-item__container"
+            "list-item__container",
+            "col-xs-12",
+            "anbima-ui-dropdown__container",
+            "anbima-ui-pagination__dropdown"
         ]
 
         elements_found = []
