@@ -40,6 +40,7 @@ registros = [
         "oferta encerrada".lower(),
         "registro concedido".lower()
     }
+    and str(r.get("nomeValorMobiliario", "")).lower() == "debêntures".lower()
 ]
 df = pd.DataFrame(registros)
 

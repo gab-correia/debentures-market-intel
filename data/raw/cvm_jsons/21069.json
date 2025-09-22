@@ -1,0 +1,252 @@
+{
+    "informacoesGerais": {
+        "ofertaMercado": true,
+        "numeroProcesso": "SRE/1820/2025",
+        "numeroRegistro": "CVM/SRE/AUT/DEB/PRI/2025/655",
+        "nomeValorMobiliario": "Debêntures",
+        "valorTotalInicial": "300.000.000,0000",
+        "valorTotalFinal": "300.000.000,0000",
+        "valorTotalLoteBaseInicial": "300.000.000,0000",
+        "valorTotalLoteBaseFinal": "300.000.000,0000",
+        "data": "12/09/2025",
+        "nomeTipoRequerimento": "OPD Aut Profissional - com bookbuilding - Emissor Não Registrado",
+        "status": "Registro Concedido",
+        "automaticaSemBook": false,
+        "ofertaAutomatica": true,
+        "idDadosColocacao": 39629
+    },
+    "tipoOfertaRequerimento": "PRIMARIA",
+    "vasosComunicantes": true,
+    "bookPreenchido": true,
+    "grupos": [
+        {
+            "series": [
+                {
+                    "loteInicial": {
+                        "valorMobiliario": "Debêntures - série única",
+                        "loteBase": {
+                            "quantidadeAtivos": "300.000,0000",
+                            "valorNominal": "1.000,0000",
+                            "custoUnitario": "0,0000",
+                            "valorTotal": "300.000.000,0000"
+                        },
+                        "valorTotalLote": "300.000.000,0000",
+                        "camposCadastrados": [
+                            {
+                                "campoNome": "Data de emissão",
+                                "campoTipo": "DATA",
+                                "campoValor": "17/09/2025",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Data de vencimento",
+                                "campoTipo": "DATA",
+                                "campoValor": "17/09/2030",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Espécie",
+                                "campoTipo": "Espécie de Debênture",
+                                "campoValor": "Quirografária",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Avaliação de risco",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "A- (bra)",
+                                "campoMascara": "LIVRE_CURTO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre remuneração máxima",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "CDI + 1,85%aa",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre remuneração final (pós bookbuilding)",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "CDI + 1,85%aa",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre amortização",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "Semestral, a partir do 24º mês (inclusive)",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Título incentivado - Lei 12.431/11",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Não",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Debêntures de infraestrutura - Lei 14.801/24",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Não",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Portaria autorizativa do projeto incentivado - Lei 12.431/11",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Número do protocolo do projeto de investimento no ministério setorial",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Possibilidade de resgate antecipado",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Sim",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            }
+                        ]
+                    },
+                    "loteFinal": {
+                        "valorMobiliario": "Debêntures - série única",
+                        "loteBase": {
+                            "quantidadeAtivos": "300.000,0000",
+                            "valorNominal": "1.000,0000",
+                            "custoUnitario": "0,0000",
+                            "valorTotal": "300.000.000,0000"
+                        },
+                        "valorTotalLote": "300.000.000,0000",
+                        "taxaRemuneracao": "CDI + 1,85%",
+                        "camposCadastrados": [
+                            {
+                                "campoNome": "Data de emissão",
+                                "campoTipo": "DATA",
+                                "campoValor": "17/09/2025",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Data de vencimento",
+                                "campoTipo": "DATA",
+                                "campoValor": "17/09/2030",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Espécie",
+                                "campoTipo": "Espécie de Debênture",
+                                "campoValor": "Quirografária",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Avaliação de risco",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "A- (bra)",
+                                "campoMascara": "LIVRE_CURTO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre remuneração máxima",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "CDI + 1,85%aa",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre remuneração final (pós bookbuilding)",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "CDI + 1,85%aa",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre amortização",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "Semestral, a partir do 24º mês (inclusive)",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Título incentivado - Lei 12.431/11",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Não",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Debêntures de infraestrutura - Lei 14.801/24",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Não",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Portaria autorizativa do projeto incentivado - Lei 12.431/11",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Número do protocolo do projeto de investimento no ministério setorial",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Possibilidade de resgate antecipado",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Sim",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            }
+                        ]
+                    },
+                    "bookPreenchido": true,
+                    "numeroRegistro": "CVM/SRE/AUT/DEB/PRI/2025/655"
+                }
+            ]
+        }
+    ],
+    "dadosColocacao": {
+        "nuIPessoasNaturais": 0,
+        "nuIClubesInvestimento": 0,
+        "nuIFundosInvestimento": 0,
+        "nuIEntidadesPrevidenciaPrivada": 0,
+        "nuICompanhiasSeguradoras": 0,
+        "nuIInvestidoresEstrangeiros": 0,
+        "nuIInstituicaoIntermediariasConsorcioDistribuicao": 0,
+        "nuIInstituicaoFinanceirasParticipantesConsorcio": 0,
+        "nuIDemaisInstituicoesFinanceiras": 0,
+        "nuIDemaisPjParticipantesConsorcio": 0,
+        "nuIDemaisPj": 0,
+        "nuISociosAdministradoresEmpregadosPropostosParticipantesConsorcio": 0,
+        "qVMPessoasNaturais": "0,0000",
+        "qVMClubesInvestimento": "0,0000",
+        "qVMFundosInvestimento": "0,0000",
+        "qVMEntidadesPrevidenciaPrivada": "0,0000",
+        "qVMCompanhiasSeguradoras": "0,0000",
+        "qVMInvestidoresEstrangeiros": "0,0000",
+        "qVMInstituicaoIntermediariasConsorcioDistribuicao": "0,0000",
+        "qVMInstituicaoFinanceirasParticipantesConsorcio": "0,0000",
+        "qVMDemaisInstituicoesFinanceiras": "0,0000",
+        "qVMDemaisPjParticipantesConsorcio": "0,0000",
+        "qVMDemaisPj": "0,0000",
+        "qVMSociosAdministradoresEmpregadosPropostosParticipantesConsorcio": "0,0000",
+        "oid": 39629
+    },
+    "registroValorMobiliario": false
+}

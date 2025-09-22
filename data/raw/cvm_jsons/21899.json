@@ -1,0 +1,252 @@
+{
+    "informacoesGerais": {
+        "ofertaMercado": true,
+        "numeroProcesso": "SRE/2549/2025",
+        "numeroRegistro": "CVM/SRE/AUT/DEB/PRI/2025/645",
+        "nomeValorMobiliario": "Debêntures",
+        "valorTotalInicial": "150.000.000,0000",
+        "valorTotalFinal": "150.000.000,0000",
+        "valorTotalLoteBaseInicial": "150.000.000,0000",
+        "valorTotalLoteBaseFinal": "150.000.000,0000",
+        "data": "08/09/2025",
+        "nomeTipoRequerimento": "OPD Aut Profissional - com bookbuilding - Emissor Não Registrado",
+        "status": "Registro Concedido",
+        "automaticaSemBook": false,
+        "ofertaAutomatica": true,
+        "idDadosColocacao": 39558
+    },
+    "tipoOfertaRequerimento": "PRIMARIA",
+    "vasosComunicantes": true,
+    "bookPreenchido": true,
+    "grupos": [
+        {
+            "series": [
+                {
+                    "loteInicial": {
+                        "valorMobiliario": "6ª emissão, série única",
+                        "loteBase": {
+                            "quantidadeAtivos": "150.000,0000",
+                            "valorNominal": "1.000,0000",
+                            "custoUnitario": "0,0000",
+                            "valorTotal": "150.000.000,0000"
+                        },
+                        "valorTotalLote": "150.000.000,0000",
+                        "camposCadastrados": [
+                            {
+                                "campoNome": "Data de emissão",
+                                "campoTipo": "DATA",
+                                "campoValor": "05/09/2025",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Data de vencimento",
+                                "campoTipo": "DATA",
+                                "campoValor": "15/09/2035",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Espécie",
+                                "campoTipo": "Espécie de Debênture",
+                                "campoValor": "Quirografária",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Avaliação de risco",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "“brA+” atribuído pela S&P",
+                                "campoMascara": "LIVRE_CURTO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre remuneração máxima",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "(i) 0,70% ao ano, acrescido exponencialmente à taxa interna de retorno do Título Público Tesouro IPCA+ com juros semestrais (NTN-B), com vencimento em 15 de maio de 2033, a ser apurada no fechamento do Dia Útil imediatamente anterior à data do Procedimento de Alocação, conforme as taxas indicativas divulgadas pela ANBIMA em sua página na internet (http://www.anbima.com.br); e (ii) 8,45% ao ano, calculado, em ambos os casos, de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre remuneração final (pós bookbuilding)",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "IPCA + 8,4942% ao ano",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre amortização",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "Anual, sendo que a primeira parcela será devida em 15 de setembro de 2032 e a última na Data de Vencimento, conforme tabela prevista na Escritura",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Título incentivado - Lei 12.431/11",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Sim",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Debêntures de infraestrutura - Lei 14.801/24",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Não",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Portaria autorizativa do projeto incentivado - Lei 12.431/11",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "Portaria MME nº 93/2024",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Número do protocolo do projeto de investimento no ministério setorial",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "Protocolo (NUP) nº 48340.004187/2025-52",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Possibilidade de resgate antecipado",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Sim",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            }
+                        ]
+                    },
+                    "loteFinal": {
+                        "valorMobiliario": "6ª emissão, série única",
+                        "loteBase": {
+                            "quantidadeAtivos": "150.000,0000",
+                            "valorNominal": "1.000,0000",
+                            "custoUnitario": "0,0000",
+                            "valorTotal": "150.000.000,0000"
+                        },
+                        "valorTotalLote": "150.000.000,0000",
+                        "taxaRemuneracao": "IPCA + 8,4942% ao ano",
+                        "camposCadastrados": [
+                            {
+                                "campoNome": "Data de emissão",
+                                "campoTipo": "DATA",
+                                "campoValor": "05/09/2025",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Data de vencimento",
+                                "campoTipo": "DATA",
+                                "campoValor": "15/09/2035",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Espécie",
+                                "campoTipo": "Espécie de Debênture",
+                                "campoValor": "Quirografária",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Avaliação de risco",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "“brA+” atribuído pela S&P",
+                                "campoMascara": "LIVRE_CURTO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre remuneração máxima",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "(i) 0,70% ao ano, acrescido exponencialmente à taxa interna de retorno do Título Público Tesouro IPCA+ com juros semestrais (NTN-B), com vencimento em 15 de maio de 2033, a ser apurada no fechamento do Dia Útil imediatamente anterior à data do Procedimento de Alocação, conforme as taxas indicativas divulgadas pela ANBIMA em sua página na internet (http://www.anbima.com.br); e (ii) 8,45% ao ano, calculado, em ambos os casos, de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre remuneração final (pós bookbuilding)",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "IPCA + 8,4942% ao ano",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre amortização",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "Anual, sendo que a primeira parcela será devida em 15 de setembro de 2032 e a última na Data de Vencimento, conforme tabela prevista na Escritura",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Título incentivado - Lei 12.431/11",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Sim",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Debêntures de infraestrutura - Lei 14.801/24",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Não",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Portaria autorizativa do projeto incentivado - Lei 12.431/11",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "Portaria MME nº 93/2024",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Número do protocolo do projeto de investimento no ministério setorial",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "Protocolo (NUP) nº 48340.004187/2025-52",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Possibilidade de resgate antecipado",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Sim",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            }
+                        ]
+                    },
+                    "bookPreenchido": true,
+                    "numeroRegistro": "CVM/SRE/AUT/DEB/PRI/2025/645"
+                }
+            ]
+        }
+    ],
+    "dadosColocacao": {
+        "nuIPessoasNaturais": 0,
+        "nuIClubesInvestimento": 0,
+        "nuIFundosInvestimento": 0,
+        "nuIEntidadesPrevidenciaPrivada": 0,
+        "nuICompanhiasSeguradoras": 0,
+        "nuIInvestidoresEstrangeiros": 0,
+        "nuIInstituicaoIntermediariasConsorcioDistribuicao": 0,
+        "nuIInstituicaoFinanceirasParticipantesConsorcio": 0,
+        "nuIDemaisInstituicoesFinanceiras": 0,
+        "nuIDemaisPjParticipantesConsorcio": 0,
+        "nuIDemaisPj": 0,
+        "nuISociosAdministradoresEmpregadosPropostosParticipantesConsorcio": 0,
+        "qVMPessoasNaturais": "0,0000",
+        "qVMClubesInvestimento": "0,0000",
+        "qVMFundosInvestimento": "0,0000",
+        "qVMEntidadesPrevidenciaPrivada": "0,0000",
+        "qVMCompanhiasSeguradoras": "0,0000",
+        "qVMInvestidoresEstrangeiros": "0,0000",
+        "qVMInstituicaoIntermediariasConsorcioDistribuicao": "0,0000",
+        "qVMInstituicaoFinanceirasParticipantesConsorcio": "0,0000",
+        "qVMDemaisInstituicoesFinanceiras": "0,0000",
+        "qVMDemaisPjParticipantesConsorcio": "0,0000",
+        "qVMDemaisPj": "0,0000",
+        "qVMSociosAdministradoresEmpregadosPropostosParticipantesConsorcio": "0,0000",
+        "oid": 39558
+    },
+    "registroValorMobiliario": false
+}

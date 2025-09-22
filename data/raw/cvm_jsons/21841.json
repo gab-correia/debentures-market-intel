@@ -1,0 +1,449 @@
+{
+    "informacoesGerais": {
+        "ofertaMercado": true,
+        "numeroProcesso": "SRE/2551/2025",
+        "numeroRegistro": "CVM/SRE/AUT/DEB/PRI/2025/657;CVM/SRE/AUT/DEB/PRI/2025/658",
+        "nomeValorMobiliario": "Debêntures",
+        "valorTotalInicial": "1.000.000.000,0000",
+        "valorTotalFinal": "1.000.000.000,0000",
+        "valorTotalLoteBaseInicial": "1.000.000.000,0000",
+        "valorTotalLoteBaseFinal": "1.000.000.000,0000",
+        "data": "16/09/2025",
+        "nomeTipoRequerimento": "OPD Aut Público em Geral ou Qualificado - com bookbuilding",
+        "status": "Registro Concedido",
+        "automaticaSemBook": false,
+        "ofertaAutomatica": true,
+        "idDadosColocacao": 39664
+    },
+    "tipoOfertaRequerimento": "PRIMARIA",
+    "vasosComunicantes": true,
+    "bookPreenchido": true,
+    "grupos": [
+        {
+            "series": [
+                {
+                    "loteInicial": {
+                        "valorMobiliario": "1ª Série",
+                        "loteBase": {
+                            "quantidadeAtivos": "1.000.000,0000",
+                            "valorNominal": "1.000,0000",
+                            "custoUnitario": "0,0000",
+                            "valorTotal": "1.000.000.000,0000"
+                        },
+                        "valorTotalLote": "1.000.000.000,0000",
+                        "camposCadastrados": [
+                            {
+                                "campoNome": "Data de emissão",
+                                "campoTipo": "DATA",
+                                "campoValor": "15/09/2025",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Data de vencimento",
+                                "campoTipo": "DATA",
+                                "campoValor": "15/09/2035",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Espécie",
+                                "campoTipo": "Espécie de Debênture",
+                                "campoValor": "Quirografária",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Avaliação de risco",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "",
+                                "campoMascara": "LIVRE_CURTO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre remuneração máxima",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "Limitados ao que for maior entre: (a) o percentual correspondente à taxa interna de retorno do Tesouro IPCA+ com Juros Semestrais (NTN-B) com vencimento em 15 de maio de 2035, apurada no fechamento do Dia Útil de realização do Procedimento de Bookbuilding, conforme a taxa indicativa divulgada pela ANBIMA em sua página na Internet, acrescida exponencialmente de spread negativo equivalente a 0,35% ao ano, base 252 Dias Úteis; e (b) 6,95% ao ano, base 252 Dias Úteis, conforme descrito na cláusula 4.2.2.1. da Escritura de Emissão.",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre remuneração final (pós bookbuilding)",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "IPCA + 7,0999% a.a.",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre amortização",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "Em 1 (uma) única parcela, na Data de Vencimento das Debêntures da Primeira Série, conforme descrito na cláusula 4.3.1 da Escritura de Emissão",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Título incentivado - Lei 12.431/11",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Sim",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Debêntures de infraestrutura - Lei 14.801/24",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Não",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Portaria autorizativa do projeto incentivado - Lei 12.431/11",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Número do protocolo do projeto de investimento no ministério setorial",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Possibilidade de resgate antecipado",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Sim",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            }
+                        ]
+                    },
+                    "loteFinal": {
+                        "valorMobiliario": "1ª Série",
+                        "loteBase": {
+                            "quantidadeAtivos": "550.000,0000",
+                            "valorNominal": "1.000,0000",
+                            "custoUnitario": "0,0000",
+                            "valorTotal": "550.000.000,0000"
+                        },
+                        "valorTotalLote": "550.000.000,0000",
+                        "taxaRemuneracao": "IPCA + 7,0999% a.a.",
+                        "camposCadastrados": [
+                            {
+                                "campoNome": "Data de emissão",
+                                "campoTipo": "DATA",
+                                "campoValor": "15/09/2025",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Data de vencimento",
+                                "campoTipo": "DATA",
+                                "campoValor": "15/09/2035",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Espécie",
+                                "campoTipo": "Espécie de Debênture",
+                                "campoValor": "Quirografária",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Avaliação de risco",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "",
+                                "campoMascara": "LIVRE_CURTO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre remuneração máxima",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "Limitados ao que for maior entre: (a) o percentual correspondente à taxa interna de retorno do Tesouro IPCA+ com Juros Semestrais (NTN-B) com vencimento em 15 de maio de 2035, apurada no fechamento do Dia Útil de realização do Procedimento de Bookbuilding, conforme a taxa indicativa divulgada pela ANBIMA em sua página na Internet, acrescida exponencialmente de spread negativo equivalente a 0,35% ao ano, base 252 Dias Úteis; e (b) 6,95% ao ano, base 252 Dias Úteis, conforme descrito na cláusula 4.2.2.1. da Escritura de Emissão.",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre remuneração final (pós bookbuilding)",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "IPCA + 7,0999% a.a.",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre amortização",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "Em 1 (uma) única parcela, na Data de Vencimento das Debêntures da Primeira Série, conforme descrito na cláusula 4.3.1 da Escritura de Emissão",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Título incentivado - Lei 12.431/11",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Sim",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Debêntures de infraestrutura - Lei 14.801/24",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Não",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Portaria autorizativa do projeto incentivado - Lei 12.431/11",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Número do protocolo do projeto de investimento no ministério setorial",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Possibilidade de resgate antecipado",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Sim",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            }
+                        ]
+                    },
+                    "bookPreenchido": true,
+                    "numeroRegistro": "CVM/SRE/AUT/DEB/PRI/2025/657"
+                },
+                {
+                    "loteInicial": {
+                        "valorMobiliario": "2ª Série",
+                        "loteBase": {
+                            "quantidadeAtivos": "1.000.000,0000",
+                            "valorNominal": "1.000,0000",
+                            "custoUnitario": "0,0000",
+                            "valorTotal": "1.000.000.000,0000"
+                        },
+                        "valorTotalLote": "1.000.000.000,0000",
+                        "camposCadastrados": [
+                            {
+                                "campoNome": "Data de emissão",
+                                "campoTipo": "DATA",
+                                "campoValor": "15/09/2025",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Data de vencimento",
+                                "campoTipo": "DATA",
+                                "campoValor": "15/09/2040",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Espécie",
+                                "campoTipo": "Espécie de Debênture",
+                                "campoValor": "Quirografária",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Avaliação de risco",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "",
+                                "campoMascara": "LIVRE_CURTO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre remuneração máxima",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "Limitados ao que for maior entre: (a) o percentual correspondente à taxa interna de retorno do Tesouro IPCA+ com Juros Semestrais (NTN-B) com vencimento em 15 de agosto de 2040, apurada no fechamento do Dia Útil de realização do Procedimento de Bookbuilding, conforme a taxa indicativa divulgada pela ANBIMA em sua página na Internet, acrescida exponencialmente de spread negativo equivalente a 0,32% ao ano, base 252 Dias Úteis; e (b) 6,85%  ao ano, base 252 Dias Úteis, conforme descrito na cláusula 4.2.2.2. da Escritura de Emissão.",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre remuneração final (pós bookbuilding)",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre amortização",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "Em 3 (três) parcelas anuais e consecutivas, no 13º (décimo terceiro), 14º (décimo quarto) e 15º (décimo quinto) ano contados da Data de Emissão, conforme descrito na cláusula 4.3.1 da Escritura de Emissão.",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Título incentivado - Lei 12.431/11",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Sim",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Debêntures de infraestrutura - Lei 14.801/24",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Não",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Portaria autorizativa do projeto incentivado - Lei 12.431/11",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Número do protocolo do projeto de investimento no ministério setorial",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Possibilidade de resgate antecipado",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Sim",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            }
+                        ]
+                    },
+                    "loteFinal": {
+                        "valorMobiliario": "2ª Série",
+                        "loteBase": {
+                            "quantidadeAtivos": "450.000,0000",
+                            "valorNominal": "1.000,0000",
+                            "custoUnitario": "0,0000",
+                            "valorTotal": "450.000.000,0000"
+                        },
+                        "valorTotalLote": "450.000.000,0000",
+                        "taxaRemuneracao": "IPCA + 6,9467%",
+                        "camposCadastrados": [
+                            {
+                                "campoNome": "Data de emissão",
+                                "campoTipo": "DATA",
+                                "campoValor": "15/09/2025",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Data de vencimento",
+                                "campoTipo": "DATA",
+                                "campoValor": "15/09/2040",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Espécie",
+                                "campoTipo": "Espécie de Debênture",
+                                "campoValor": "Quirografária",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Avaliação de risco",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "",
+                                "campoMascara": "LIVRE_CURTO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre remuneração máxima",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "Limitados ao que for maior entre: (a) o percentual correspondente à taxa interna de retorno do Tesouro IPCA+ com Juros Semestrais (NTN-B) com vencimento em 15 de agosto de 2040, apurada no fechamento do Dia Útil de realização do Procedimento de Bookbuilding, conforme a taxa indicativa divulgada pela ANBIMA em sua página na Internet, acrescida exponencialmente de spread negativo equivalente a 0,32% ao ano, base 252 Dias Úteis; e (b) 6,85%  ao ano, base 252 Dias Úteis, conforme descrito na cláusula 4.2.2.2. da Escritura de Emissão.",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre remuneração final (pós bookbuilding)",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Informações sobre amortização",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "Em 3 (três) parcelas anuais e consecutivas, no 13º (décimo terceiro), 14º (décimo quarto) e 15º (décimo quinto) ano contados da Data de Emissão, conforme descrito na cláusula 4.3.1 da Escritura de Emissão.",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Título incentivado - Lei 12.431/11",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Sim",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Debêntures de infraestrutura - Lei 14.801/24",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Não",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Portaria autorizativa do projeto incentivado - Lei 12.431/11",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Número do protocolo do projeto de investimento no ministério setorial",
+                                "campoTipo": "TEXTO",
+                                "campoValor": "",
+                                "campoMascara": "LIVRE_MEDIO",
+                                "visivel": true
+                            },
+                            {
+                                "campoNome": "Possibilidade de resgate antecipado",
+                                "campoTipo": "Sim ou não",
+                                "campoValor": "Sim",
+                                "campoMascara": "DEFAULT",
+                                "visivel": true
+                            }
+                        ]
+                    },
+                    "bookPreenchido": true,
+                    "numeroRegistro": "CVM/SRE/AUT/DEB/PRI/2025/658"
+                }
+            ]
+        }
+    ],
+    "dadosColocacao": {
+        "nuIPessoasNaturais": 0,
+        "nuIClubesInvestimento": 0,
+        "nuIFundosInvestimento": 0,
+        "nuIEntidadesPrevidenciaPrivada": 0,
+        "nuICompanhiasSeguradoras": 0,
+        "nuIInvestidoresEstrangeiros": 0,
+        "nuIInstituicaoIntermediariasConsorcioDistribuicao": 0,
+        "nuIInstituicaoFinanceirasParticipantesConsorcio": 0,
+        "nuIDemaisInstituicoesFinanceiras": 0,
+        "nuIDemaisPjParticipantesConsorcio": 0,
+        "nuIDemaisPj": 0,
+        "nuISociosAdministradoresEmpregadosPropostosParticipantesConsorcio": 0,
+        "qVMPessoasNaturais": "0,0000",
+        "qVMClubesInvestimento": "0,0000",
+        "qVMFundosInvestimento": "0,0000",
+        "qVMEntidadesPrevidenciaPrivada": "0,0000",
+        "qVMCompanhiasSeguradoras": "0,0000",
+        "qVMInvestidoresEstrangeiros": "0,0000",
+        "qVMInstituicaoIntermediariasConsorcioDistribuicao": "0,0000",
+        "qVMInstituicaoFinanceirasParticipantesConsorcio": "0,0000",
+        "qVMDemaisInstituicoesFinanceiras": "0,0000",
+        "qVMDemaisPjParticipantesConsorcio": "0,0000",
+        "qVMDemaisPj": "0,0000",
+        "qVMSociosAdministradoresEmpregadosPropostosParticipantesConsorcio": "0,0000",
+        "oid": 39664
+    },
+    "registroValorMobiliario": false
+}
